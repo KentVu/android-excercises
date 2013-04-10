@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LTDD_W05_Kien_Thien</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dish1">Mon 1</string>
+    <string name="edittext_hint">sl</string>
+    <string name="prompt">Book Your Meal 1</string>
+
+    <string-array name="entries">
+        <item>Beef</item>
+        <item>Chicken</item>
+        <item>Pig</item>
+        <item>Fish</item>
+        <item>Noodle</item>
+        <item>Tomato</item>
+        <item>Garlic</item>
+        <item>Carrot</item>
+        <item>Potato</item>
+        <item>Garbage</item>
+        <item>Apple</item>
+        <item>Grapefruit</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Lemmon</item>
+    </string-array>
+
+    <string name="prompt1">Book Your Meal 2</string>
+    <string name="prompt2">Book Your Meal 3</string>
+    <string name="dish2">Mon 2</string>
+    <string name="dish3">Mon 3</string>
+    <string name="count1">SL:</string>
+    <string name="counter1">sl</string>
+    <string name="count2">SL:</string>
+    <string name="counter2">sl</string>
+    <string name="count3">SL:</string>
+    <string name="counter3">sl</string>
+    <string name="save">Save</string>
+    <string name="total">Total</string>
+    <string name="payed">So tien</string>
+
+</resources>
